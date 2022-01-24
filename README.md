@@ -16,10 +16,10 @@ To create working javaScript code to generate random passwords using the supplie
 
 ### Screenshots of successful password examples from the page
 
-![Password with 12 characters and all four types](https://github.com/utilrr/password/images/password_12chars_all types.png?raw=true "MH ")
+![password_12chars_all types](https://user-images.githubusercontent.com/25494815/150714337-8ad58f89-efdd-4bfa-b457-f49fe4e96a6b.png)
 
-![Password with 128 characters and all four types](https://github.com/utilrr/password/images/password_128chars_alltypes.png?raw=true "MH ")
+![password_30chars_lower_numbers](https://user-images.githubusercontent.com/25494815/150714402-12595ed8-9d42-4095-9ad0-146dffaf95ba.png)
 
-![Password with 30 characters and lowercase and numbers](https://github.com/utilrr/password/images/password_30chars_lower_numbers.png?raw=true "MH ")
+![password_128chars_alltypes](https://user-images.githubusercontent.com/25494815/150714403-8f7571ff-7b59-48b5-8bed-96fdbc634d69.png)
 
-![Password with 12 characters and uppercase and symbols](https://github.com/utilrr/password/images/passwsord_12chars_upper_symbols.png?raw=true "MH ")
+![passwsord_12chars_upper_symbols](https://user-images.githubusercontent.com/25494815/150714404-ea1eb0c2-27b7-4234-846b-e02edfb5a2bf.png)
