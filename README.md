@@ -23,3 +23,6 @@ To create working javaScript code to generate random passwords using the supplie
 ![password_128chars_alltypes](https://user-images.githubusercontent.com/25494815/150714403-8f7571ff-7b59-48b5-8bed-96fdbc634d69.png)
 
 ![passwsord_12chars_upper_symbols](https://user-images.githubusercontent.com/25494815/150714404-ea1eb0c2-27b7-4234-846b-e02edfb5a2bf.png)
+
+
+http://127.0.0.1:5500/Develop/index.html
