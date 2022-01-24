@@ -26,3 +26,5 @@ To create working javaScript code to generate random passwords using the supplie
 
 
 http://127.0.0.1:5500/Develop/index.html
+
+https://utilrr.github.io/password/
